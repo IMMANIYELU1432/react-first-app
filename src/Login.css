@@ -1,0 +1,35 @@
+.secdiv{
+    background-color: whitesmoke;
+    width: fit-content;
+    outline: none;
+    box-shadow: 1px 3px 10px black;
+    border-radius: 6px 6px 6px 6px;
+    padding: 30px;
+    padding-top: 30px;
+}
+.fadiv{
+    padding-top: 10vh;
+}
+.div{
+    padding-top: 20px;
+}
+.sdivs{
+    padding-top: 20px;
+}
+.pl{
+    padding-top: 20px;
+}
+.spanl{
+    color: blue;
+    border: none;
+    margin: none;
+    background-color: white;
+    text-decoration: none;
+}
+.spanl:hover{
+    color: blue;
+}
+.spandiv{
+    padding-top: 20px;
+}
+

@@ -1,0 +1,55 @@
+.fdiv{
+    padding-top: 10vh;
+}
+.div{
+    padding-top: 1.5vh;
+}
+.div input{
+    width: 350px;
+    height: 40px;
+}
+.btns{
+    width: 8vw;
+}
+.btn:hover{
+    color: white;
+}
+.divs{
+    padding: 2vh; 
+}
+.sdiv{
+    background-color: whitesmoke;
+    width: fit-content;
+    outline: none;
+    box-shadow: 1px 3px 10px black;
+    border-radius: 6px 6px 6px 6px;
+    padding: 30px;
+    padding-top: 30px;
+}
+.div input{
+    outline: none;
+    border: none;
+    padding-left: 1vw;
+    box-shadow: 1px 2px 5px black ;
+    border-radius: 1%;
+}
+.rp{
+    color: rgb(0, 30, 255);
+    background-color: rgb(182, 218, 249);
+    outline: none;
+    box-shadow: 1px 1px 3px black;
+    width: 200px;
+}
+.span{
+    color: blue;
+    border: none;
+    margin: none;
+    background-color: white;
+    text-decoration: none;
+}
+.span:hover{
+    color: blue;
+}
+.spandiv{
+    padding-top: 20px;
+}

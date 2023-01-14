@@ -1,0 +1,25 @@
+.navi{
+    padding-left: 1vw;
+}
+.btn{
+   box-sizing: content-box;
+   text-shadow: 1px 1px 1px rgb(143, 192, 232);
+   box-shadow: 1px 1px 1px black;
+   outline: none;
+   color: white;  
+
+}
+.btn:hover{
+   color: rgb(0, 0, 255);
+}
+.navbar{
+   overflow: hidden;
+   box-shadow: 1px 1px 10px rgb(0, 0, 0);
+   outline: none;
+   direction:ltr;
+  
+}
+.bootimg{
+   width: 7vw;
+   height: 8vh;
+}
